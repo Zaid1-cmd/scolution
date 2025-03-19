@@ -1,0 +1,2 @@
+# scolution
+Solution Approach 
