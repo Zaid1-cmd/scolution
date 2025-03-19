@@ -1,2 +1,3 @@
-# scolution
+# solution
+
 Solution Approach 
